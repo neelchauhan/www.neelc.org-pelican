@@ -2,7 +2,8 @@ Title: About
 
 Well, hello there!
 
-My name is **Neel Chauhan** and I'm a [NYU](http://www.nyu.edu/) student,
+My name is **Neel Chauhan** and I'm a
+[NYU Engineering](http://engineering.nyu.edu/) student,
 [FreeBSD](http://www.freebsd.org/) [Ports](https://www.freebsd.org/ports/)
 [maintainer and contributer](https://www.freshports.org/search.php?stype=maintainer&method=exact&query=neel@neelc.org),
 [Tor](https://www.torproject.org/)

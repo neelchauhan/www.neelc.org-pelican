@@ -30,7 +30,7 @@ OnionLauncher targets both Windows and Unix-like systems
 
 ## Previous Projects
 
-Keep in mind that I may do infrequent work on these projects.
+Keep in mind that I may do sporadic work on these projects.
 
 ### TorNova
 

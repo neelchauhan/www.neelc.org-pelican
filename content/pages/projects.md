@@ -52,6 +52,6 @@ relies on Unix system calls.
 
 [colwide](https://github.com/neelchauhan/colwide) is a Perl script which
 displays a specified number of characters (default: 80 `#` characters) on the
-terminal. It was used primaarily for aligning terminals with
+terminal. It was used primarily for aligning terminals with
 [tmux](https://tmux.github.io/) (because I want my terminals to all be
 perfectly 80 characters).

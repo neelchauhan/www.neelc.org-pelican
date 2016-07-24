@@ -21,3 +21,6 @@ The details of the technologies powering **neelc.org** are as follows:
  * OS: FreeBSD
  * Web Server: [nginx](http://www.nginx.org/)
  * Site Generator: [Pelican](http://blog.getpelican.com/)
+
+Also, **neelc.org** is
+[open source](https://github.com/neelchauhan/www.neelc.org).

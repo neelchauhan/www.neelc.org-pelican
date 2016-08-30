@@ -3,11 +3,24 @@ Date: 2016-08-28 17:00
 Category: FreeBSD
 Tags: freebsd, nvidia, graphics
 
-**UPDATE:** A cleaner solution to this can be found at the end of this article,
-as suggested by people on Reddit. I recommend you use the cleaner version
-rather than the `cron` based solution.
+**UPDATE:** A cleaner solution to this can be found in the section **Cleaner
+Solution** below. I moved it to the top as of August 30th. If you are still
+interested with the old `cron` based solution, it is in the section **Old
+Solution**.
 
-After upgrading the software on my desktop computer from
+**Cleaner Solution:** Looking at the comments on
+[FreeBSD's subreddit](https://www.reddit.com/r/freebsd/comments/501g7e/freebsd_nvidia_driver_36735_or_later_and_dealing/),
+user *rhavenn* has come up with a cleaner solution. It doesn't require cron,
+but instead uses `kld_list` in `/etc/rc.conf`. What you need to put in
+`rc.conf` is:
+
+	kld_list="nvidia nvidia-modeset"
+
+This solution is cleaner, and has the benifit of loading the driver before
+services are loaded, rather than after.
+
+
+**Old Solution:** After upgrading the software on my desktop computer from
 [FreeBSD Ports](https://www.freebsd.org/ports/), I noticed that a new version
 of the [NVIDIA](http://www.nvidia.com/) driver landed.
 
@@ -61,13 +74,4 @@ And reboot your system to take advantages of the changes.
 
 And that's it. I hope you enjoy what I done.
 
-**Cleaner Solution:** Looking at the comments on
-[FreeBSD's subreddit](https://www.reddit.com/r/freebsd/comments/501g7e/freebsd_nvidia_driver_36735_or_later_and_dealing/),
-user *rhavenn* has come up with a cleaner solution. It doesn't require cron,
-but instead uses `kld_list` in `/etc/rc.conf`. What you need to put in
-`rc.conf` is:
 
-	kld_list="nvidia nvidia-modeset"
-
-This solution is cleaner, and has the benifit of loading the driver before
-services are loaded, rather than after.

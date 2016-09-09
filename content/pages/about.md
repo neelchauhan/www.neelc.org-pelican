@@ -7,7 +7,7 @@ My name is **Neel Chauhan** and I'm a
 [FreeBSD](http://www.freebsd.org/) [Ports](https://www.freebsd.org/ports/)
 [maintainer and contributer](https://www.freshports.org/search.php?stype=maintainer&method=exact&query=neel@neelc.org),
 [Tor](https://www.torproject.org/)
-[node operator](https://atlas.torproject.org/#search/contact:neel), and
+[node operator](https://atlas.torproject.org/#search/contact:neelc), and
 [occasional programmer](https://github.com/neelchauhan/).
 
 And I forgot one major detail: my email address is `neel <AT> neelc <DOT> org`.

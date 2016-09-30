@@ -5,7 +5,7 @@ Well, hello there!
 My name is **Neel Chauhan** and I'm a
 [NYU Engineering](http://engineering.nyu.edu/) student,
 [FreeBSD](http://www.freebsd.org/) [Ports](https://www.freebsd.org/ports/)
-[maintainer and contributer](https://www.freshports.org/search.php?stype=maintainer&method=exact&query=neel@neelc.org),
+[maintainer and contributor](https://www.freshports.org/search.php?stype=maintainer&method=exact&query=neel@neelc.org),
 [Tor](https://www.torproject.org/)
 [node operator](https://atlas.torproject.org/#search/contact:neelc), and
 [occasional programmer](https://github.com/neelchauhan/).

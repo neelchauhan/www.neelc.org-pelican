@@ -7,7 +7,7 @@ SITENAME = u'neelc.org'
 SITETITLE = u'neelc.org'
 SITEURL = 'https://www.neelc.org'
 SITESUBTITLE = 'Just Neel Chauhan\'s personal website'
-SITELOGO = SITEURL + '/images/neel_favicon_large.png'
+SITELOGO = '/images/neel_favicon_large.png'
 
 PATH = 'content'
 
@@ -35,7 +35,7 @@ AUTHOR_FEED_RSS = None
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
 
 COPYRIGHT_YEAR = 2016
 THEME = "Flex"

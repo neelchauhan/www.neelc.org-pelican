@@ -90,3 +90,4 @@ ENV/
 
 # Ignore Pelican output
 output/
+Flex/

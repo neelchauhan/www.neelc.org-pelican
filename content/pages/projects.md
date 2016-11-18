@@ -12,7 +12,9 @@ This list excludes [school](http://engineering.nyu.edu/) projects.
 is on [Debian](https://www.debian.org/) and [Ubuntu](http://www.ubuntu.com/)).
 I maintain
 [various packages](https://www.freshports.org/search.php?stype=maintainer&method=exact&query=neel@neelc.org)
-for FreeBSD Ports, and contributed updates to others, such as
+for FreeBSD Ports including
+[Keras](https://keras.io/) and [Nestopia](http://0ldsk00l.ca/nestopia/), and
+contributed updates to others, such as
 [Tor](https://www.torproject.org/), [Knot DNS](https://www.knot-dns.cz/),
 and [Requests](http://docs.python-requests.org/en/master/).
 

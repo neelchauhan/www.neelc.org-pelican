@@ -22,6 +22,10 @@ A list of FreeBSD Ports contributions I have made are available
 <a href="http://freshbsd.org/search?project=freebsd-ports&q=Neel+Chauhan">
 at the BSD source code tracking site FreshBSD</a>.
 
+## Previous Projects
+
+Keep in mind that I may do sporadic work on these projects.
+
 ### MiniMiniWeb
 
 [MiniMiniWeb](https://github.com/neelchauhan/MiniMiniWeb) is a minimal,
@@ -33,10 +37,6 @@ multithreaded web server written in C designed for Unix-like systems.
 Tor written in Python, and uses [Stem](https://stem.torproject.org/) and
 [PyQt5](https://www.riverbankcomputing.com/software/pyqt/download5).
 OnionLauncher targets both Windows and Unix-like systems
-
-## Previous Projects
-
-Keep in mind that I may do sporadic work on these projects.
 
 ### TorNova
 

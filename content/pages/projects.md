@@ -22,6 +22,12 @@ A list of FreeBSD Ports contributions I have made are available
 <a href="http://freshbsd.org/search?project=freebsd-ports&q=Neel+Chauhan">
 at the BSD source code tracking site FreshBSD</a>.
 
+### The Tor Project
+
+I recently also started to contribute to [Tor](https://www.torproject.org/), a
+popular Internet anonymity service. My contributions can be seen at
+[Tor's Git repository](https://gitweb.torproject.org/tor.git/log/?qt=author&q=Neel+Chauhan).
+
 ## Previous Projects
 
 Keep in mind that I may do sporadic work on these projects.

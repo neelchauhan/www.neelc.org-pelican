@@ -37,6 +37,6 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
-COPYRIGHT_YEAR = 2016
-THEME = "Flex"
+COPYRIGHT_YEAR = 2017
+THEME = "pelican-alchemy/alchemy"
 JINJA_ENVIRONMENT = ""

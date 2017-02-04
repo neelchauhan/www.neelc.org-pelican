@@ -91,3 +91,4 @@ ENV/
 # Ignore Pelican output
 output/
 Flex/
+pelican-alchemy/
